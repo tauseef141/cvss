@@ -1,0 +1,31 @@
+body{
+    margin-left: 90px;
+    margin-right: 90px;
+}
+.right{
+    position: absolute;
+    right: 90px;
+    width: 60%;
+}
+.left{
+    position: absolute;
+    left: 90px;
+    width: 20%;
+    
+
+}
+.head{
+    text-align: center;
+    line-height: 50%;
+}
+.edu{
+    text-align: center;
+    line-height: 50%;
+}
+.top{
+    list-style-type: none;
+    font-size: 120%; 
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}

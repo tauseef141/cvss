@@ -1,0 +1,50 @@
+h1{
+    font-size: 4em;
+    text-align: center;
+    line-height: 140%;
+    letter-spacing: 3px;
+    word-spacing: 15px;
+   
+}
+.inform{
+    text-align: center;
+    line-height: 130%;
+       
+}
+
+
+body{
+    margin-left: 90px;
+    margin-right: 90px;
+}
+.exp{
+    
+    line-height: 30%;
+    padding-left: 05%;
+   
+}
+.edu{
+    
+    line-height: 30%;
+    padding-left: 05%;
+   
+}
+.ul1{
+    font-size: 130%;
+    position: absolute;
+    margin-right: 50%;
+    width: 40%;
+    line-height: 34px;
+    
+    
+}
+.ul2{
+    font-size: 130%;
+    margin-left: 50%;
+    width:50%;
+    line-height: 40px;
+    
+}
+.head{
+    line-height: 80%;
+}

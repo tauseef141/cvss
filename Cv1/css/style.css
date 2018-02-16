@@ -1,0 +1,45 @@
+body{
+	margin-left:70px;
+	margin-right: 70px;
+	border-left: 30%;
+	
+}
+h1{
+
+   margin-left:50%; 
+   font-size: 4vw;
+   padding-top: 5px;
+}
+div{
+	margin-left:50%; 
+	padding-bottom: 4px;
+}
+.circle{
+    position: absolute;
+    right: 280px;
+    width: 60%;
+    margin-left: 20%;
+    margin-top:-0.6%;
+    
+}
+.names{
+		background-color:crimson;
+	    margin-left: 25%;
+	    padding-right: 10px;
+	    line-height: 1.0;
+}
+.right{
+    position: absolute;
+    margin-top: 10%;
+    right: 90px;
+    width: 60%;
+}
+.left{
+	margin-left:70px;
+    position: absolute;
+    margin-top: 10%;
+    left:35px;
+    width: 20%;
+    
+
+}

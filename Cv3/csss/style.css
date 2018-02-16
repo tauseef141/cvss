@@ -1,0 +1,45 @@
+body{
+    margin-left: 90px;
+    margin-right: 90px;
+}
+.name{
+    line-height: 15px;
+    font-family: bold;
+    font-size: 3em;
+    position: absolute;
+    width: 50%;
+}
+.top{
+    margin-top:3em;
+    margin-left:61%;
+    font-size: 120%; 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 40%;
+    line-height: 35px;
+    
+
+}
+.ul1{
+    font-size: 130%;
+    position: absolute;
+    margin-right: 50%;
+    width: 40%;
+    line-height: 34px;
+    
+    
+}
+.ul2{
+    font-size: 130%;
+    margin-left: 50%;
+    width:50%;
+    line-height: 40px;
+    
+}
+.exp{
+    
+    line-height: 30%;
+}
+.edu{
+    
+    line-height: 30%;
+}
